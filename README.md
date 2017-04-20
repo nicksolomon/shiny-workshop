@@ -28,7 +28,12 @@ minimal app and what kind of changes it's possible to make.
 ### Digression: HTML Widgets
 
 Use HTML Widgets to add impressive interactive visualizations to shiny apps (or
-R Markdown documents).
+R Markdown documents). Some of my favorites:
+
+- [Leaflet](https://rstudio.github.io/leaflet/)
+- [DT](https://rstudio.github.io/DT/)
+- [NDTV](http://statnet.csde.washington.edu/workshops/SUNBELT/current/ndtv/ndtv_workshop.html)
+
 
 ### Customizing our app!
 
