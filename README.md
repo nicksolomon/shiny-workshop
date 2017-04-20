@@ -34,3 +34,7 @@ R Markdown documents).
 
 This is where the fun starts. Make your own interactive app using the data set 
 in the demo-app folder.
+
+### Sharing our apps (if there's time)
+
+Publish apps to [shinyapps.io](http://www.shinyapps.io)
