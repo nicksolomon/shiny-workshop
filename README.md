@@ -1,6 +1,6 @@
 # Getting started with `shiny`
 
-Fork this repo and download the slides from [here](bit.ly/shiny-quickstart-1).
+Fork this repo and download the slides from [here](http://www.bit.ly/shiny-quickstart-1).
 
 Make sure you have `shiny` installed! Run:
 ```r
